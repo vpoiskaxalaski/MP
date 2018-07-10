@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  Auxil.cpp
+  Lab1.cpp
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(27): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(27): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(27): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(27): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(27): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(28): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(28): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(28): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(28): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(28): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(29): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(29): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(29): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(29): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(29): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(30): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(30): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(30): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(30): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(30): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(31): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(31): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(31): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(31): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(31): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(33): error C2039: cout: не является членом "std"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\locale(19): note:  см. объявление "std"
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(33): error C2065: cout: необъявленный идентификатор
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(33): error C2563: несоответствие в списке формальных параметров
+e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(33): error C2568: <<: не удается разрешить перегрузку функции
+  e:\unversity\мп\lab1\lab1\lab1\lab1.cpp(33): note: может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+  Создание кода...
